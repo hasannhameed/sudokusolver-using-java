@@ -2,14 +2,6 @@
 🧩 Sudoku Solver 🧩
 This is a Java program that solves a given Sudoku puzzle using backtracking algorithm. It has a simple command-line interface and can solve any valid Sudoku puzzle within seconds.
 
-🚀 Getting Started
-Clone the repository using the following command:
-git clone https://github.com/hasnain-kk/sudoku_solver.git
-Open the project in your favorite Java IDE.
-Compile and run the SudokuSolver.java file.
-Enter the Sudoku puzzle row by row. Use 0 or any negative number to represent empty cells.
-Wait for the program to solve the puzzle.
-The solution will be displayed on the console.
 📝 How It Works
 The Sudoku Solver uses a backtracking algorithm to solve the puzzle. It tries different numbers for each empty cell until a solution is found. If the number is not valid for the current cell, it backtracks to the previous cell and tries a different number.
 
